@@ -1,8 +1,8 @@
-## Products manager
+# Products manager
 
 Simple products manager.
 
-###Features:
+### Features:
 - see products list
 - add new product
 - update existing product
@@ -10,7 +10,7 @@ Simple products manager.
 
 ---
 
-###Form validation:
+### Form validation:
 - Name is required, length not greater than 200
 - Rating is required, integer, not greater than 10
 - A product should have from 1 to 5 categories
@@ -19,7 +19,7 @@ Simple products manager.
 
 ---
 
-###API Simulator:
+### API Simulator:
 - `categoryApi.getCategories` - get all categories
 - `productApi.getProducts` - get all products
 - `productApi.addProduct` - add new product

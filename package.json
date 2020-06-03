@@ -1,7 +1,7 @@
 {
   "name": "trial.react",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://marksmirnov13.github.io/products-manager",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
