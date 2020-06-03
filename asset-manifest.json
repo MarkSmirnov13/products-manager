@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/products-manager/static/css/main.283eea1f.chunk.css",
+    "main.js": "/products-manager/static/js/main.0ac1193a.chunk.js",
+    "main.js.map": "/products-manager/static/js/main.0ac1193a.chunk.js.map",
+    "runtime~main.js": "/products-manager/static/js/runtime~main.5fd5e2d6.js",
+    "runtime~main.js.map": "/products-manager/static/js/runtime~main.5fd5e2d6.js.map",
+    "static/css/2.266e55a5.chunk.css": "/products-manager/static/css/2.266e55a5.chunk.css",
+    "static/js/2.27cf7406.chunk.js": "/products-manager/static/js/2.27cf7406.chunk.js",
+    "static/js/2.27cf7406.chunk.js.map": "/products-manager/static/js/2.27cf7406.chunk.js.map",
+    "index.html": "/products-manager/index.html",
+    "precache-manifest.091de369f30c9abdf837a50117eaf752.js": "/products-manager/precache-manifest.091de369f30c9abdf837a50117eaf752.js",
+    "service-worker.js": "/products-manager/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/products-manager/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.283eea1f.chunk.css.map": "/products-manager/static/css/main.283eea1f.chunk.css.map"
+  }
+}
